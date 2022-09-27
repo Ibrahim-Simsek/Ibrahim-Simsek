@@ -7,6 +7,13 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 Aws&DevOps Engineer 
 
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+
+- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+
+- 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ## Contact Me 📫
 
