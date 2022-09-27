@@ -1,5 +1,8 @@
 <h1 >Hi Folks, I'm Halil İbrahim ŞİMŞEK 👋,</h1> 
 
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems 👨🏻‍💻. I'm currently into Aws and DevOps .
+
 ## I'm currently working on 🔭
 
 Aws&DevOps Engineer 
