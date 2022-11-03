@@ -26,7 +26,7 @@ You can find and get touch with me via Linkedin and Instagram!
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysfnsal&layout=compact&theme=dark" width="500" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Simsek&layout=compact&theme=dark" width="500" >
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Ibrahim-Simsek&show_icons=true&theme=radical)
 
